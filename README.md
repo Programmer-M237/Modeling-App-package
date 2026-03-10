@@ -1,5 +1,5 @@
 # Modeling App — MVP Beta
-### by [Enumera](https://enumera.com)
+### by Enumera
 
 > ⚠️ **This is a pre-release MVP for evaluation and feedback purposes only.**
 > All rights reserved. Redistribution or commercial use is strictly prohibited.
@@ -22,11 +22,7 @@ The **Modeling App** is a **combinatorial state-space modeling and analysis tool
 
 ### Core Concepts
 
-**Objects** are the fundamental units of the app. Each object has a set of **properties**, and each property has a set of **forms** (possible values). The app automatically enumerates every possible combination of those forms, creating a complete **state space** for that object. Three object structures are supported:
-
-- **Type 01** — all properties share the same forms list (uniform enumeration, with or without repetition)
-- **Type 02** — no-repetition ordered picks (permutations or combinations)
-- **Type 03** — each property has its own independent forms list (mixed enumeration)
+**Objects** are the fundamental units of the app. Each object has a set of **properties**, and each property has a set of **forms** (possible values). The app automatically enumerates every possible combination of those forms, creating a complete **state space** for that object.
 
 **Functional Objects** extend this further with computed **dynamic properties** — columns whose values are automatically derived from a formula evaluated per state row.
 
@@ -58,8 +54,8 @@ Choose the installer for your operating system:
 | Platform | File | Status |
 |----------|------|--------|
 | 🪟 Windows | `ModelingApp-win.exe` | ✅ Available |
-| 🍎 macOS | `ModelingApp-mac.dmg` | ✅ Available |
-| 🐧 Linux | `ModelingApp-linux.tar.gz` | ✅ Available |
+| 🍎 macOS | `ModelingApp-mac.dmg` | ❌ Available |
+| 🐧 Linux | `ModelingApp-linux.tar.gz` | ❌ Available |
 
 > No installation of Python or any dependencies is required. The app runs standalone on your machine.
 
@@ -88,9 +84,7 @@ This MVP exists **because of testers like you.** Your input directly shapes the 
 
 Please take a few minutes after testing to share your thoughts:
 
-### 👉 [Submit Feedback Form](#) *(add your Google Form or Typeform link here)*
-
-Or open a **GitHub Issue** in this repository with the label `feedback`.
+## 👉Open a **GitHub Issue** in this repository with the label `feedback`.
 
 **We'd love to know:**
 - 🖥️ How was the installation experience?
@@ -122,9 +116,8 @@ We work across both **technology and non-technology** domains, applying structur
 This Modeling App is our public debut — a signal to the market of the caliber of technology we are capable of creating.
 
 Follow our journey:
-- 🔗 [LinkedIn](#) *(add your LinkedIn page link)*
-- 🌐 [Website](#) *(add when available)*
-- 📧 [Contact us](#) *(add your email)*
+- 🔗 *www.linkedin.com/in/tankala-azoasieh-manic*
+- 📧 *tankalaazoasiehm@gmail.com*
 
 ---
 
