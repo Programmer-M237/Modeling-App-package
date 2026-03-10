@@ -5,6 +5,8 @@
 > All rights reserved. Redistribution or commercial use is strictly prohibited.
 
 ---
+## Releases ✅
+View the releases in the GitHub Release section
 
 ## 👋 Welcome
 
